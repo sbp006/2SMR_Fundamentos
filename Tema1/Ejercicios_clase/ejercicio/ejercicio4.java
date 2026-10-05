@@ -1,4 +1,4 @@
-public class ejercicio1 {
+public class ejercicio4 {
     /*La funcion del programa es que en que apareza en pantalla (Hola, SMR), (Sergundo curso), (Fundamentos de programación) 
 lo cual hacemos que aparezca con un print*/
     public static void main(String[] args) {
