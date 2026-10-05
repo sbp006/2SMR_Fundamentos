@@ -8,13 +8,13 @@ int resultadoResta;
 int resultadoDivision;
 int resultadoMultiplicacion;
 
-miEntero1 = 1;
-miEntero2 = 2;
-esCorrecto = false;
-resultadoSuma = miEntero1 + miEntero2;
-resultadoResta = miEntero1 - miEntero2;
-resultadoDivision = miEntero1 / miEntero2;
-resultadoMultiplicacion = miEntero1 * miEntero2;
+        miEntero1 = 1;
+        miEntero2 = 2;
+        esCorrecto = false;
+        resultadoSuma = miEntero1 + miEntero2;
+        resultadoResta = miEntero1 - miEntero2;
+        resultadoDivision = miEntero1 / miEntero2;
+        resultadoMultiplicacion = miEntero1 * miEntero2;
 
 esCorrecto = (resultadoSuma > resultadoResta)
 && false;

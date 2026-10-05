@@ -4,6 +4,6 @@ public class ejemplo1 {
         //aqui iran las variables
         //bloque de instrucciones
         System.out.println("Sergio Blanca"); //si ponemos un ln detas del print nos separa el texto
-        System.err.println("Tengo 18 años");
+        System.out.println("Tengo 18 años");
     }
 }

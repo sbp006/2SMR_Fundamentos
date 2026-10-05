@@ -4,6 +4,6 @@ public class Ejercicio3 {
         int numero=693560718;
     
         System.out.println("La dirección es: "+dirección);
-        System.out.println("El numero es: " +numero);
+        System.out.println("El numero es: "+numero);
     }
 }
