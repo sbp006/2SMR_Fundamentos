@@ -4,8 +4,8 @@ public class Ejercicio7 {
         double nota1 = 7.67;
         double nota2 = 5.48;
         double nota3 = 9.99;
-        
-        System.out.println(nota1 + nota2 + nota3 / 3);
+        double media= (nota1+ nota2 +nota3)/3;
+        System.out.println("La nota media es " + media);
     }
     
 }
